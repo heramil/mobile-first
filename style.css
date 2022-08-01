@@ -1,0 +1,75 @@
+main {
+  margin-top: 60px;
+}
+
+main h1 {
+  margin: 0 10px;
+  text-align: center;
+  font-family: "Amatic SC", cursive;
+  font-size: 65px;
+}
+
+main h2 {
+  margin: 18px 0 12px 0;
+  border-bottom: 1px solid #5c4f41;
+  font-family: "Special Elite", cursive;
+  font-size: 24px;
+}
+
+main h3 {
+  margin: 18px 0 12px 0;
+  border-bottom: 1px solid #5c4f41;
+  font-family: "Special Elite", cursive;
+  font-size: 18px;
+}
+
+main p {
+  font-family: "Roboto", sans-serif;
+  margin-top: 0;
+}
+
+.container {
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  width: 100%;
+}
+
+.column {
+  display: column;
+  border: 2rem;
+}
+
+.column-verbiage {
+  display: column;
+  padding: 20px;
+}
+
+.flex {
+  display: flex;
+}
+
+.textarea {
+  width: 400px;
+  height: 100px;
+}
+
+.group {
+  margin: 0 auto;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+  display: flex;
+  margin: 3rem 0 5rem 0;
+}
+
+.group-one, .group-two, .group-three {
+  padding: 2rem;
+}
+
+.pictures {
+  background-color: #785F48;
+  margin: 0 auto;
+  width: 100%;
+}
